@@ -25,6 +25,7 @@
   ],
   "rules": {
     "react-hooks/rules-of-hooks": "error",
+    "import/prefer-default-export": "off",
     "react/jsx-props-no-spreading": "off",
     "react/prop-types": "off",
     "prettier/prettier": "error",
